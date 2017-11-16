@@ -1,4 +1,4 @@
-var reverseString = function() {
+var reverseString = function(words) {
 
 }
 
